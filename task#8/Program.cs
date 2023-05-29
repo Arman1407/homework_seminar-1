@@ -6,17 +6,24 @@
 
 // 1 вариант
 
+// Console.Clear();
+// Console.Write("Введите число: ");
+// int N = int.Parse(Console.ReadLine()!);
+// int n = 2;
+
+// if (N > 1)
+// {
+//     while (n <= N)
+//     {
+//         Console.Write(n +  ",");
+//         n = n + 2;
+//     }
+// }
+    
+// 2 вариант
+
 Console.Clear();
 Console.Write("Введите число: ");
 int N = int.Parse(Console.ReadLine()!);
-int n = 2;
-
-if (N > 1)
-{
-    while (n <= N)
-    {
-        Console.Write(n +  ",");
-        n = n + 2;
-    }
-}
-    
+for (int n = 2; n <= N; n+=2)
+    Console.WriteLine($"{n}");
