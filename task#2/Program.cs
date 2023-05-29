@@ -12,5 +12,4 @@ if (n > m)
     Console.WriteLine(n);
 else if (n < m)
     Console.WriteLine(m);
-else
-    Console.WriteLine(n);
+

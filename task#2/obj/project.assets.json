@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Пользователь\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Локальный диск (D)\\Арман\\Учебная\\homework_seminar-1\\task#2\\task#2.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Локальный диск (D)\\ГикБреинс\\Языки программирования\\C#\\homework_seminar-1\\task#2\\task#2.csproj",
       "projectName": "task#2",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Локальный диск (D)\\Арман\\Учебная\\homework_seminar-1\\task#2\\task#2.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Локальный диск (D)\\ГикБреинс\\Языки программирования\\C#\\homework_seminar-1\\task#2\\task#2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Локальный диск (D)\\Арман\\Учебная\\homework_seminar-1\\task#2\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Локальный диск (D)\\ГикБреинс\\Языки программирования\\C#\\homework_seminar-1\\task#2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -62,5 +62,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\Users\\Admin\\Desktop\\Локальный диск (D)\\ГикБреинс\\Языки программирования\\C#\\homework_seminar-1\\task#2\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
