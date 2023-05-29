@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "5EHTjgmM36jeA7NrqVERkV/VLVo7oXlTxB2TgXY7dpl53JhHj3rZWHIfobbqMhdAI8tgGJV9XRsbRwg6yCeBNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\Локальный диск (D)\\ГикБреинс\\Языки программирования\\C#\\homework_seminar-1\\task#2\\task#2.csproj",
+=======
+  "dgSpecHash": "QY33/d25gyeJZdg919NNeA3f42wI7+CbhllQ5CEovBgTe1JxmaxV5aOmguTbMA8+XwkE5716/gdtWgLC6XNPXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Пользователь\\Desktop\\Общая\\personal\\homework_seminar_#1\\homework_seminar-1\\task#2\\task#2.csproj",
+>>>>>>> 59717e5c0b1edbf67f178c50716e4f8fc01f3519
   "expectedPackageFiles": [],
   "logs": []
 }

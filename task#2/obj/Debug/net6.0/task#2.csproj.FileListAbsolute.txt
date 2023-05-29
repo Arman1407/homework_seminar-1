@@ -13,6 +13,7 @@ C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная
 C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.pdb
 C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Локальный диск (D)\Арман\Учебная\homework_seminar-1\task#2\obj\Debug\net6.0\ref\task#2.dll
+<<<<<<< HEAD
 C:\Users\Admin\Desktop\Локальный диск (D)\ГикБреинс\Языки программирования\C#\homework_seminar-1\task#2\bin\Debug\net6.0\task#2.exe
 C:\Users\Admin\Desktop\Локальный диск (D)\ГикБреинс\Языки программирования\C#\homework_seminar-1\task#2\bin\Debug\net6.0\task#2.deps.json
 C:\Users\Admin\Desktop\Локальный диск (D)\ГикБреинс\Языки программирования\C#\homework_seminar-1\task#2\bin\Debug\net6.0\task#2.runtimeconfig.json
@@ -28,3 +29,20 @@ C:\Users\Admin\Desktop\Локальный диск (D)\ГикБреинс\Язы
 C:\Users\Admin\Desktop\Локальный диск (D)\ГикБреинс\Языки программирования\C#\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.pdb
 C:\Users\Admin\Desktop\Локальный диск (D)\ГикБреинс\Языки программирования\C#\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.genruntimeconfig.cache
 C:\Users\Admin\Desktop\Локальный диск (D)\ГикБреинс\Языки программирования\C#\homework_seminar-1\task#2\obj\Debug\net6.0\ref\task#2.dll
+=======
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\bin\Debug\net6.0\task#2.exe
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\bin\Debug\net6.0\task#2.deps.json
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\bin\Debug\net6.0\task#2.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\bin\Debug\net6.0\task#2.dll
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\bin\Debug\net6.0\task#2.pdb
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.dll
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\refint\task#2.dll
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.pdb
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\task#2.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Общая\personal\homework_seminar_#1\homework_seminar-1\task#2\obj\Debug\net6.0\ref\task#2.dll
+>>>>>>> 59717e5c0b1edbf67f178c50716e4f8fc01f3519
